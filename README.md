@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/faizan-je3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-je3" height="30" width="40" /></a>
 <a href="https://instagram.com/faizan.je3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faizan.je3" height="30" width="40" /></a>
-<a href="https://api.whatsapp.com/send?phone=923076521502" target="blank"><img align="center" src="https://web.whatsapp.com/favicon-64x64.ico" alt="faizan.je3" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~0131bacb9d90151a98" target="blank"><img align="center" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" alt="faizan.je3" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send?phone=923076521502" target="blank"><img align="center" src="https://web.whatsapp.com/favicon-64x64.ico" alt="faizan.je3" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~0131bacb9d90151a98" target="blank"><img align="center" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" alt="faizan.je3" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
