@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faizan Malik</h1>
 <h3 align="center">A fullstack mobile app developer with a passion for building intuitive and user-friendly mobile applications. I have extensive experience using Flutter/Dart to develop cross-platform apps as well as native Android apps using Java/Kotlin. With a keen eye for detail and a focus on creating seamless user experiences, I take great pride in ensuring the quality, architecture, and functionality of every project I work on.</h3>
 
-- 💬 Ask me about **Flutter, Android, Angular, Node**
+- 💬 Ask me about **Flutter, Android, Angular, React, NodeJS**
 
 
 <h3 align="left">Connect with me:</h3>
