@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **Flutter, Android, Angular, React, NodeJS**
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faizan-je3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizan-je3" height="30" width="40" /></a>
@@ -40,7 +39,8 @@
 
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img
         src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a></p>
-<p><img align="left"
+
+<!-- <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=faizanje&show_icons=true&theme=dark&locale=en&layout=compact"
         alt="faizanje"/></p>
 
@@ -48,4 +48,4 @@
               src="https://github-readme-stats.vercel.app/api?username=faizanje&show_icons=true&locale=en"
               alt="faizanje"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanje&" alt="faizanje"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizanje&" alt="faizanje"/></p> -->
